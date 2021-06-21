@@ -3,8 +3,7 @@ Q1) What is data?
 
     Data is information that has been translated into a form that is efficient for movement or processing. In 
     computer technology, a data type refers to an attribute of data which tells the compiler (or interpreter) 
-    how the programmer 
-    intends to use the data. Data types can be of majorly three types which are:-
+    how the programmer intends to use the data. Data types can be of majorly three types which are:-
     1. Primitive: basic building block (boolean, integer, float, char etc.)
     2. Composite: any data type (struct, array, string etc.) composed of primitives or composite types.
     3. Abstract: data type that is defined by its behaviour (tuple, set, stack, queue, graph etc).
