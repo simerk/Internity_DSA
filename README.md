@@ -1,4 +1,5 @@
 # DAY 1
+
 Q1) What is data?
 
     Data is information that has been translated into a form that is efficient for movement or processing. In 
