@@ -36,4 +36,12 @@ Q4) Need of data structures in real life?
     2. Tree Data Structure to store the genealogy information of biological species.
     3. Graph Data Structure in Social Media and Google Map.
  
-    
+Q5)
+
+Q6) Explore more about Standard template library.
+
+    STL is a set of C++ template classes to provide general-purpose classes and functions with templates that
+    implement many popular and commonly used algorithms and data structures like vectors, lists, queues, and 
+    stacks. Some STL containers are Set, Map, multimap, unordered_set, unordered_map, unordered_multiset, 
+    unordered_multimap, stack, queue, priority_queue, vector, dequeue, list, etc.
+
